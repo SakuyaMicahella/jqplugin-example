@@ -1,1 +1,3 @@
-# jqplugin-example
+#自定义插件导航小例子
+
+需要加载jQuery
